@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2022 The Portal Project
+     SPDX-FileCopyrightText: 2022 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
@@ -10,7 +10,7 @@
     android:viewportHeight="108">
   <path
       android:pathData="M0,0h108v108h-108z"
-      android:fillColor="#ffffff"/>
+      android:fillColor="#eeedfd"/>
   <path
       android:pathData="M42,30L66,30A4,4 0,0 1,70 34L70,74A4,4 0,0 1,66 78L42,78A4,4 0,0 1,38 74L38,34A4,4 0,0 1,42 30z"
       android:fillColor="#31375A"/>
