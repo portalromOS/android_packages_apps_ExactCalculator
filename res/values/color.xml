@@ -18,7 +18,7 @@
 <resources>
 
     <!-- Default accent color. -->
-    <color name="calculator_accent_color">#7367F0</color>
+    <color name="calculator_accent_color">#31375a</color>
 
     <!-- Primary color (Color for the toolbars). -->
     <color name="calculator_primary_color">#fafafa</color>
@@ -39,7 +39,7 @@
     <color name="display_result_text_color">#7367F0</color>
 
     <!-- Lighter color for exponent while scrolling. -->
-    <color name="display_result_exponent_text_color">#eeedfd</color>
+    <color name="display_result_exponent_text_color">#7367F0</color>
 
     <!-- Background color for the numeric pad. -->
     <color name="pad_numeric_background_color">@color/calculator_primary_color</color>

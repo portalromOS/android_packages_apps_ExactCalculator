@@ -29,10 +29,10 @@
     <color name="display_formula_text_color">@android:color/white</color>
 
     <!-- Text color for the result in the calculator display. -->
-    <color name="display_result_text_color">#7367F0FF</color>
+    <color name="display_result_text_color">#7367F0</color>
 
     <!-- Lighter color for exponent while scrolling. -->
-    <color name="display_result_exponent_text_color">#40FFFFFF</color>
+    <color name="display_result_exponent_text_color">#7367F0</color>
 
     <!-- Text color for a button in a pad. -->
     <color name="pad_button_text_color">@android:color/white</color>
