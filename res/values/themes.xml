@@ -36,8 +36,5 @@
         <item name="android:layoutDirection">ltr</item>
     </style>
 
-    <style name="Theme.Licenses">
-        <item name="android:title">@string/menu_licenses</item>
-    </style>
 
 </resources>

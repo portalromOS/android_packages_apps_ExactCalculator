@@ -1285,9 +1285,6 @@ public class Calculator extends Activity
             case R.id.menu_fraction:
                 displayFraction();
                 return true;
-            case R.id.menu_licenses:
-                startActivity(new Intent(this, Licenses.class));
-                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
